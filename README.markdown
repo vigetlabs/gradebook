@@ -40,7 +40,7 @@ Once you've completed the exercise:
 Once you're ready to send us your working application:
 
 1. Create a bare clone of your local repository (`git clone --bare gradebook gradebook.git`)
-1. Create a tarball of the repository (`tar czf gradebook.git gradebook.tar.gz`)
+1. Create a tarball of the repository (`tar czf gradebook.tar.gz gradebook.git`)
 1. Email your submission to developers@viget.com
 
 If you have any questions during this exercise, please feel free to email developers@viget.com with any questions.
