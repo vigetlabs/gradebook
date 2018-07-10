@@ -60,7 +60,7 @@ Once you're ready to send us your working application:
 1. Create a git bundle of your local repo from the master branch:
 
    ```shell
-   git bundle create yourname-gradebook.bundle master
+   $ git bundle create yourname-gradebook.bundle master
    ```
 
    This will create a file that contains all of your git history in the master
@@ -68,7 +68,7 @@ Once you're ready to send us your working application:
    running:
 
    ```shell
-   git clone -b master ./yourname-gradebook.bundle ../testing-bundle-file
+   $ git clone -b master ./yourname-gradebook.bundle ../testing-bundle-file
    ```
 
 1. Email your submission to developers@viget.com
