@@ -59,7 +59,7 @@ Once you're ready to send us your working application:
 1. Since you cloned this repository, you already have a git repo initialized
 1. Create a git bundle of your local repo from the master branch:
 
-	```shell
+   ```shell
    git bundle create yourname-gradebook.bundle master
    ```
 
